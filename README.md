@@ -55,33 +55,4 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 }
 
 module.exports = dialogflowConfig
- ```
-[dialogflow-v2-authentication](https://medium.com/@tzahi/how-to-setup-dialogflow-v2-authentication-programmatically-with-node-js-b37fa4815d89)
-
- ## Features
- 
-
-
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-
-- [ReactJS](https://reactjs.org/)
-- [tailwindCSS](https://tailwindcss.com/)
-- [NodeJS](https://react-bootstrap.github.io/)
-- [ExpressJS](https://expressjs.com/)
-- [Dialogflow](https://dialogflow.cloud.google.com/)
-
-## Sample
-
-
-                                                                                                                                                                                
-
-
-### 🎉 Acknowledgements & Inspiration
-- [sharmaritesh3312.medium](https://codeburst.io/building-scalable-chatbots-in-react-with-dialogflow-1091ff462e40)
-- [https://github.com/Akash52/react-chat-ui](https://github.com/Akash52/react-chat-ui)  
-
-
-
 
