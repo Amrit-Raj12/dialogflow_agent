@@ -1,8 +1,6 @@
 # Dialogflow ChatBot
 ---
 
-[Live Demo](https://dialogflowchatbot.netlify.app/)
-
 ##  About <a name = "about"></a>
 
 Project Purpose was people can efficiently solve his/her queries using chatbot
