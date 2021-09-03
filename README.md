@@ -1,9 +1,8 @@
 # Dialogflow ChatBot
 ---
+![ui](https://user-images.githubusercontent.com/67092088/132028626-9e167d05-8e64-4b85-9f4d-aef9ee6645d9.png)
 
-##  About <a name = "about"></a>
-
-Project Purpose was people can efficiently solve his/her queries using chatbot
+## Project Purpose was people can efficiently solve his/her queries using chatbot
 
 ### Prerequisites
 
@@ -16,8 +15,7 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 #### Front-End
 
 ```
- # git clone https://github.com/Akash52/dialogflow-chatbot-react
-   cd dialogflow-chatbot-react
+ # cd dialogflow-chatbot-react
   
  # npm install (these command install relevant dependencies)
    npm start 
